@@ -1,0 +1,11 @@
+,mean_abs_shap
+Contract Month-to-month,0.7838044
+tenure,0.4469553
+MonthlyCharges,0.34086126
+charges per tenure month,0.30737665
+PaymentMethod Electronic check,0.17899153
+Contract Two year,0.12473739
+has support,0.104464754
+TechSupport No,0.069098346
+PaymentMethod Bank transfer,0.051082786
+InternetService Fiber optic,0.04855198
